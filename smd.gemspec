@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'smd/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "ruby-smd"
+  spec.name          = "smd"
   spec.version       = SmD::VERSION
   spec.authors       = ["Tim Shadel", "Jay Wagnon"]
   spec.email         = ["tim@shadelsoftware.com", "jaywagnon@gmail.com"]
