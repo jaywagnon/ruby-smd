@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ruby-smd (1.0.0)
+    smd (1.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -31,5 +31,5 @@ DEPENDENCIES
   bundler (~> 1.3)
   rake
   rspec
-  ruby-smd!
   simplecov
+  smd!
