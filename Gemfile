@@ -8,4 +8,6 @@ group :test, :development do
   gem 'rspec'
   gem 'rspec-its'
   gem 'simplecov'
+  gem 'mutant'
+  gem 'mutant-rspec'
 end
